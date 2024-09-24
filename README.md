@@ -7,6 +7,8 @@ The chatbot provides a user-friendly interface to interact with and retrieve mod
 
 The project focused on building a tool that could manage metadata seamlessly, helping data scientists, analysts, engineers, and managers access critical information. With a structured **classification layer** to categorize user queries, the chatbot supports a wide range of use cases, from simple extractions to complex data analysis tasks. The project demonstrates the potential to significantly improve decision-making, increase efficiency, and reduce operational risks within KPMG's business processes.
 
+![KPMG_poster pptx](https://github.com/user-attachments/assets/6af8faf4-a10b-4048-8ba4-eef1cdf51d5f)
+
 ## Tools Used
 
 - **Neo4j**: A graph database management system used to store and manage the complex relationships between models, reports, and metadata.
